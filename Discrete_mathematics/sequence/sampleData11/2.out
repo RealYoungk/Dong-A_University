@@ -1,0 +1,5 @@
+Case 1: A = 40461669, limit = 213109074, number of terms = 109
+Case 2: A = 3872, limit = 19125, number of terms = 101
+Case 3: A = 6335, limit = 20961, number of terms = 3
+Case 4: A = 979375, limit = 2133670, number of terms = 1
+Case 5: A = 373358, limit = 1638224, number of terms = 118

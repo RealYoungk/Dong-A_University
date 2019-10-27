@@ -1,0 +1,9 @@
+n=10 m=13 start=8 DFS:59 BFS:47
+n=10 m=13 start=9 DFS:51 BFS:52
+n=10 m=13 start=2 DFS:53 BFS:51
+n=13 m=31 start=12 DFS:86 BFS:104
+n=13 m=31 start=7 DFS:75 BFS:89
+n=13 m=31 start=10 DFS:96 BFS:80
+n=15 m=24 start=2 DFS:83 BFS:99
+n=15 m=24 start=1 DFS:94 BFS:94
+n=15 m=24 start=10 DFS:86 BFS:91
